@@ -18,3 +18,11 @@ body {
 .input-error{
   color:red;
 }
+
+nav img{
+  height:40px;
+}
+
+nav li{
+  margin: 0px 8px;
+}
